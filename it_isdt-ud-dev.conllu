@@ -8924,13 +8924,14 @@
 27	da	da	ADP	E	_	29	case	29:case	_
 28	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	29:det	_
 29	caldo	caldo	NOUN	S	Gender=Masc|Number=Sing	25	obl	25:obl:da	_
-30	e	e	CCONJ	CC	_	32	cc	32:cc	_
+29.1	_	_	_	_	_	_	_	21:conj:e	_
+30	e	e	CCONJ	CC	_	32	cc	29.1:cc	_
 31	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	32:det	_
-32	sera	sera	NOUN	S	Gender=Fem|Number=Sing	21	conj	21:conj:e	_
+32	sera	sera	NOUN	S	Gender=Fem|Number=Sing	21	conj	29.1:dep	_
 33-34	dal	_	_	_	_	_	_	_	_
 33	da	da	ADP	E	_	35	case	35:case	_
 34	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	35:det	_
-35	freddo	freddo	NOUN	S	Gender=Masc|Number=Sing	32	orphan	32:orphan	SpaceAfter=No
+35	freddo	freddo	NOUN	S	Gender=Masc|Number=Sing	32	orphan	29.1:dep	SpaceAfter=No
 36	.	.	PUNCT	FS	_	7	punct	7:punct	_
 
 # sent_id = tut-3817

@@ -50,6 +50,9 @@ The Corpus (14,167 sentences; 278,429 tokens; 298,344 words) has been randomly s
 
 # Changelog
 
+* 2020-01-11 **IWPT Shared Task Data**
+  * Enhanced graph: Added empty nodes representing elided predicates.
+
 * 2019-05-1 v2.4
   * validated with stricter validation script
 

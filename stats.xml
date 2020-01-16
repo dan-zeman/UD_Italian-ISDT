@@ -49,7 +49,7 @@
     <feat name="Mood" value="Sub" upos="AUX,VERB">1093</feat><!-- sia, siano, abbia, possa, fosse, venga, avesse, abbiano, fossero, debba -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">45532</feat><!-- i, le, gli, sono, hanno, anni, tutti, persone, altri, stati -->
     <feat name="Number" value="Sing" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PRON,VERB,X">111543</feat><!-- il, la, l', è, un, una, ha, lo, quale, stato -->
-    <feat name="NumType" value="Card" upos="NUM,PROPN">5178</feat><!-- due, 1, 2, tre, 3, cinque, 4, mila, quattro, 5 -->
+    <feat name="NumType" value="Card" upos="NUM,PROPN">5185</feat><!-- due, 1, 2, tre, 3, cinque, 4, mila, quattro, 5 -->
     <feat name="NumType" value="Ord" upos="ADJ,NUM">1058</feat><!-- primo, prima, secondo, terzo, seconda, primi, ultimi, prime, ultimo, ii -->
     <feat name="NumType" value="Range" upos="NUM">4</feat><!-- 3/4, 150/300, 2/3 -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">1891</feat><!-- ci, mi, ho, noi, abbiamo, io, siamo, possiamo, sono, me -->

@@ -138,11 +138,12 @@
 14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	15:det	_
 15	strade	strada	NOUN	S	Gender=Fem|Number=Plur	13	obj	13:obj	_
 16	consuete	consueto	ADJ	A	Gender=Fem|Number=Plur	15	amod	15:amod	SpaceAfter=No
-17	,	,	PUNCT	FF	_	20	punct	20:punct	_
-18	e	e	CCONJ	CC	_	20	cc	20:cc	_
+16.1	_	_	_	_	_	_	_	7:advcl:perché|13:conj:e	_
+17	,	,	PUNCT	FF	_	20	punct	16.1:punct	_
+18	e	e	CCONJ	CC	_	20	cc	16.1:cc	_
 19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	20:det	SpaceAfter=No
-20	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	13	conj	7:advcl:perché|13:conj:e	_
-21	no	no	ADV	BN	PronType=Neg	20	orphan	20:orphan	SpaceAfter=No
+20	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	13	conj	16.1:dep	_
+21	no	no	ADV	BN	PronType=Neg	20	orphan	16.1:advmod	SpaceAfter=No
 22	,	,	PUNCT	FF	_	25	punct	25:punct	_
 23	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	24	det	24:det	SpaceAfter=No
 24	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	25	nsubj	25:nsubj	_
